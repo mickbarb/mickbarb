@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barb</h1>
-<h3 align="center">A economy student from Slovakia.</h3>
+<h3 align="center">A student from Slovakia. Learning Finance and IT.</h3>
 
 - 🔭 I’m currently working on **different school projects**
 
